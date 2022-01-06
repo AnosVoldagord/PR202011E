@@ -1,0 +1,7 @@
+E:\PR-202011E\C#\Anos 3\Anos 3\bin\Debug\Anos 3.exe.config
+E:\PR-202011E\C#\Anos 3\Anos 3\bin\Debug\Anos 3.exe
+E:\PR-202011E\C#\Anos 3\Anos 3\bin\Debug\Anos 3.pdb
+E:\PR-202011E\C#\Anos 3\Anos 3\obj\Debug\Anos 3.csprojAssemblyReference.cache
+E:\PR-202011E\C#\Anos 3\Anos 3\obj\Debug\Anos 3.csproj.CoreCompileInputs.cache
+E:\PR-202011E\C#\Anos 3\Anos 3\obj\Debug\Anos 3.exe
+E:\PR-202011E\C#\Anos 3\Anos 3\obj\Debug\Anos 3.pdb

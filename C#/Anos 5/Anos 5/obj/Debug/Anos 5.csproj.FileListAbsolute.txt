@@ -1,0 +1,2 @@
+E:\PR-202011E\C#\Anos 5\Anos 5\obj\Debug\Anos 5.csprojAssemblyReference.cache
+E:\PR-202011E\C#\Anos 5\Anos 5\obj\Debug\Anos 5.csproj.CoreCompileInputs.cache

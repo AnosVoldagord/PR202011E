@@ -1,0 +1,7 @@
+E:\PR-202011E\C#\Classes And Method\Classes And Method\bin\Debug\Classes And Method.exe.config
+E:\PR-202011E\C#\Classes And Method\Classes And Method\bin\Debug\Classes And Method.exe
+E:\PR-202011E\C#\Classes And Method\Classes And Method\bin\Debug\Classes And Method.pdb
+E:\PR-202011E\C#\Classes And Method\Classes And Method\obj\Debug\Classes And Method.csprojAssemblyReference.cache
+E:\PR-202011E\C#\Classes And Method\Classes And Method\obj\Debug\Classes And Method.csproj.CoreCompileInputs.cache
+E:\PR-202011E\C#\Classes And Method\Classes And Method\obj\Debug\Classes And Method.exe
+E:\PR-202011E\C#\Classes And Method\Classes And Method\obj\Debug\Classes And Method.pdb
